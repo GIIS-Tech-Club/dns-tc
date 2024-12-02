@@ -134,7 +134,7 @@ helios:
       proxied: true
       auto_ttl: true
 
-apitestthing:
+apitest:
   ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
