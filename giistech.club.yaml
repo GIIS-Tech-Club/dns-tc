@@ -133,3 +133,12 @@ helios:
     cloudflare:
       proxied: true
       auto_ttl: true
+
+apitestthing:
+  ttl: 300
+  type: CNAME
+  value: cname.vercel-dns.com.
+  octodns:
+    cloudflare:
+      proxied: true
+      auto_ttl: true
