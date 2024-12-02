@@ -38,6 +38,7 @@ _vercel:
   type: TXT
   values:
     - "vc-domain-verify=helios.giistech.club,b2cf7b4395870c70dcfb"
+    - "vc-domain-verify=apitest.giistech.club,799ff824bf1d47be8004"
   octodns:
     cloudflare:
       proxied: false
