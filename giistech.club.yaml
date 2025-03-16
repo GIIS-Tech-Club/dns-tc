@@ -142,3 +142,12 @@ apitest:
     cloudflare:
       proxied: true
       auto_ttl: true
+
+ai:
+  ttl: 300
+  type: CNAME
+  value: ai-router.fly.dev.
+  octodns:
+    cloudflare:
+      proxied: true
+      auto_ttl: true
