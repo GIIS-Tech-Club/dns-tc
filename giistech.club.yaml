@@ -149,5 +149,5 @@ ai:
   value: ai-router.fly.dev.
   octodns:
     cloudflare:
-      proxied: true
+      proxied: false
       auto_ttl: true
